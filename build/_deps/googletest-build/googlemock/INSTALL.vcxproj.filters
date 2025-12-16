@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ValCombucha\CPP_Programming\oop_laba_3\build\CMakeFiles\603548673230e54168182a091b8eff32\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2A49DCF6-18AA-3D9A-A2A0-BF959D78EA89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
